@@ -1,0 +1,15 @@
+.nav-link.active {
+	border-bottom: 2px solid rgb(231, 231, 231) !important;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#about-us {
+	background-color: #8bb5f9;
+}
+
+#contact {
+	background-color: #e6f0ff;
+}
